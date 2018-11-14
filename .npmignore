@@ -4,8 +4,10 @@ tsconfig.json
 tsconfig.module.json
 tslint.json
 .travis.yml
+.circleci/config.yml
 .github
 .prettierignore
+.prettierrc
 .vscode
 build/docs
 **/*.spec.*
